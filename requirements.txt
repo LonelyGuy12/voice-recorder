@@ -1,0 +1,11 @@
+disnake==2.2.1
+ffmpeg-python
+disnake-together
+typehint
+googlesearch-python
+bs4
+Flask
+simpcalci
+praw
+PyDictionary
+python-dateutil
